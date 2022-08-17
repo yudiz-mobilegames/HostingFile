@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3020209081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c8242dbe38ae98ee0825c859d0eed8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6213e0005c7cb7db69e10b0c330641f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92ede0252ef7e92459ff5df2a16cd28e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LeanTouch
+  ClassName: Lean.Touch.LeanFingerFilter
+Assets:
+- Assets/Objects/Object.prefab
+Dependencies: []
